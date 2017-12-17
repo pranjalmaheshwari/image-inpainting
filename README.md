@@ -4,7 +4,9 @@ Implementation of - Telea, Alexandru. "An image inpainting technique based on th
 
 Example of inpainting - 
 Input Image
+
 ![alt text](https://raw.githubusercontent.com/pranjalmaheshwari/image-inpainting/master/data/broken.png)
 
 Output Image
+
 ![alt text](https://raw.githubusercontent.com/pranjalmaheshwari/image-inpainting/master/data/restored.png)
